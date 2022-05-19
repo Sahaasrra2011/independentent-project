@@ -1,0 +1,36 @@
+body {
+  background-color: lime;
+}
+
+.header {
+  color: white;
+  font-family: 'Yeon Sung';
+  font-size: 47px;
+  letter-spacing: 5px;
+  margin-top: 80px;
+}
+
+.header img {
+  width: 82px;
+  margin-left: -16px;
+}
+
+h2 {
+  color: crimson;
+  font-size: 30px;
+  font-family: monospace;
+  letter-spacing: 2px;
+}
+
+h3 {
+  color: blue;
+  letter-spacing: 2px;
+}
+
+#button {
+  width: 30%;
+  height: 35px;
+  border-radius: 15px;
+  background-color: blueviolet;
+  color: aliceblue;
+}
